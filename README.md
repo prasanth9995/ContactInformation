@@ -11,7 +11,7 @@ Steps to follow:
 3.Debug the project
 
 
-Technoogies used:
-Asp.net web api, C#, Repository pattern, HTML5, JQuery, Bootstrap
+Technologies used:
+Asp.net web api, C#, Repository pattern, Ajax, HTML5, JQuery, Bootstrap
 
 Note: After debugging the project, Contacts.html page will open. Wait for few minutes to load the table content(if the table data are not loaded, make sure the database is in open state). Once data loaded, then we can work on CRUD operations. 
