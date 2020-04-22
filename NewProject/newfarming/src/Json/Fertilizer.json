@@ -1,0 +1,47 @@
+[
+    {
+        "id": 0,
+        "ProductName": "Super Fert",
+        "prize":5000,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ_AxX_vSL8UE6oYj4wHc_8CpGk9R6JsRoO9h0-DzkLHE9XW9je&usqp=CAU",
+        "State":"solid",
+        "NetWeight":50,
+        "description":"Contains Amonium and sulphur componds. Mainly this fertilizer is used for Wheat cultivation"
+    },
+    {
+        "id": 1,
+        "ProductName": "Zambia",
+        "prize":6000,
+        "image":"https://lh3.googleusercontent.com/proxy/pAiF2PH3tgSNFkTi2w0aw7t_vy6FBft4FrMkG46NP7e6GlsvkDDCQT9QbO3zMXsJg7PN1EzlAnEWzUOeQih7MazdU8zF8ARlKxA0Xw",
+        "State":"Solid",
+        "NetWeight":50,
+        "description":"Contains Phosphorus, potassium and Nitrogen componds. Mainly this fertilizer is user for Paddy cultivation"
+    },
+    {
+        "id": 2,
+        "ProductName": "Zambia veg mix",
+        "prize":4500,
+        "image":"https://lh3.googleusercontent.com/proxy/xMjdV2xt9unAVNw-3b_Isy2_HmJ3fdGNgHCz249L6ZDiThHteO1OjPjIonm9r_p5V9Bzd7SFJGsu_UJne3soqmvTHqTMhKs8OURsT7VqpHFku6pdpKo",
+        "State":"Solid",
+        "NetWeight":50,
+        "description":"Contains components like Phosphorus, Nitrogen. Mainly this fertilizer is used for Tomatoes cultivation"
+    },
+    {
+        "id": 3,
+        "ProductName": "Super Fert Bulk blend",
+        "prize":1000,
+        "image":"https://www.zimmegastore.com/wp-content/uploads/2019/04/zimbabwe-fertiliser-2.jpg",
+        "State":"Solid",
+        "NetWeight":50,
+        "description":"Contains components like Nitrogen, potassium and componds like potassium oxide. Mainly this fertilizer is used for Barley cultivation"
+    },
+    {
+        "id": 4,
+        "ProductName": "Burnet's Fertilizer",
+        "prize":1050,
+        "image":"https://media.bunnings.co.nz/Product-800x800/be89c3c7-2455-4c2c-8a2b-b32e8cb211b7.jpg",
+        "State":"Solid",
+        "NetWeight":50,
+        "description":"Contains Components like Phosphorus and sodium. Mainly this fertilizer is used for Potatoes cultivation"
+    }
+]
